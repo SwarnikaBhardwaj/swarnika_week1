@@ -9,3 +9,7 @@ Que 4 - echo "Practice notes start here." > practice/progress.txt - progress.txt
 Description: "Created the required file practice/progress.txt inside the practice folder."
 
 [Web edit] Added a line directly on GitHub to test fetch/pull.
+
+Que 5 - git fetch origin - progress.txt edited on: local machine - command ran on: local machine
+Description: "Fetched changes made directly on GitHub without merging."
+
