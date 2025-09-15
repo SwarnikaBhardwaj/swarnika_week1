@@ -7,3 +7,5 @@ Description: "Created rough.txt which is ignored by git. Verified with git statu
 
 Que 4 - echo "Practice notes start here." > practice/progress.txt - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created the required file practice/progress.txt inside the practice folder."
+
+[Web edit] Added a line directly on GitHub to test fetch/pull.
