@@ -1,5 +1,5 @@
 # Progress log created
-Que 2 - <command> - progress.txt edited on: local machine - command ran on: local machine
+Que 2 - touch .gitignore - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created a .gitignore file to exclude macOS, IDE, Python/Conda, logs/temp, and rough.txt."
 
 Que 3 - echo "demo" > rough.txt - progress.txt edited on: local machine - command ran on: local machine
@@ -12,4 +12,7 @@ Description: "Created the required file practice/progress.txt inside the practic
 
 Que 5 - git fetch origin - progress.txt edited on: local machine - command ran on: local machine
 Description: "Fetched changes made directly on GitHub without merging."
+
+Que 6 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pulled the GitHub website changes into my local branch (after rebase)."
 
