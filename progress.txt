@@ -1,1 +1,3 @@
 # Progress log created
+Que 2 - <command> - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created a .gitignore file to exclude macOS, IDE, Python/Conda, logs/temp, and rough.txt."
